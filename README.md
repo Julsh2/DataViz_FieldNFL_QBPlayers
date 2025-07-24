@@ -1,0 +1,1 @@
+This project is a data-driven visual experience that brings quarterback stats to life using p5.js. Users can explore season-specific metrics like longest passes, touchdowns, and sacks through animated trajectories on a stylized football field. The goal is to expand the visualization to include some quarterbacks# DataViz_FieldNFL_QBPlayers
